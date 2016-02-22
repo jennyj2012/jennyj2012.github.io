@@ -1,2 +1,4 @@
-# jennyj2012.github.io
-Web Development Portfolio
+# My Portfolio
+Web Development Portfolio for Jenny Juarez
+
+[Live Site](http://www.jennyj2012.github.io)
