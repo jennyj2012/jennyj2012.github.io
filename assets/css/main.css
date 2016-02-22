@@ -3451,3 +3451,7 @@
 	.phone-container:hover > .hidden{
 		display: block;
 	}
+
+	.resume-header {
+		padding-top: 50px;
+	}
